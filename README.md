@@ -1,9 +1,8 @@
 # GoogleDocs-Clone
 - CLone of Google Docs using React JS, Tailwind Css and Draft.js.
 
-# Images
-<img width="960" alt="image" src="https://github.com/shashwata2003/GoogleDocs-Clone/assets/93364178/a612173b-099c-4cd9-ba51-2464be60a86d">
-![image](https://github.com/shashwata2003/GoogleDocs-Clone/assets/93364178/6258e4d0-e18c-43c6-b60e-42b24cf4469b)
+# Editor Page:
+<img width="960" alt="image" src="https://github.com/shashwata2003/GoogleDocs-Clone/assets/93364178/2e7b1dcd-c03e-47af-b950-bf488f22e342">
 
 # How to run the Project:
 - Clone the repo to your local system
@@ -11,6 +10,11 @@
 - Run yarn install to install all the dependancies
 - Run yarn start
 - The project will run on port 3000
+
+# Steps to use the project:
+- Login using Google Accounts
+- Create a new document
+- And boom you have a new google Docs file
 
 # About the Project:
 The Google Docs Clone project on GitHub is a React-based web application developed with the integration of Firebase 9, TailwindCSS, and Draft.js. 
