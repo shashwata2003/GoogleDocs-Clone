@@ -4,6 +4,9 @@
 # Deployed link:
 https://docs-13d5a.web.app
 
+# YouTube Video: 
+https://www.youtube.com/watch?v=eEIOB24AuwU&t=9s&ab_channel=ShashwataSamanta
+
 # Editor Page:
 <img width="960" alt="image" src="https://github.com/shashwata2003/GoogleDocs-Clone/assets/93364178/2e7b1dcd-c03e-47af-b950-bf488f22e342">
 
