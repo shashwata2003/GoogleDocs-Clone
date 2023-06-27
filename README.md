@@ -1,5 +1,10 @@
 # GoogleDocs-Clone
 - CLone of Google Docs using React JS, Tailwind Css and Draft.js.
+  
+# Tech Stack:
+- Firebase 9
+- TailwindCSS
+- React
 
 # Deployed link:
 https://docs-13d5a.web.app
